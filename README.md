@@ -14,7 +14,7 @@
 <p>I regularly practice <strong>Data Structures and Algorithms</strong> to sharpen my problem-solving skills. Check out my DSA repository where I solve coding problems using C# and other languages.</p>
 
 - 📘 [DSA Repository](https://github.com/HassanKoraim/DSA) – My solutions to common coding challenges.
-- 🧱 Recently solved multiple problems related to <a href="https://github.com/HassanKoraim/DSA/Data-structures/Stack Problems Solving" target="_blank"><strong>Stacks</strong></a> – Valid-Parentheses, Next Greater Element II, Minimum Add to Make Parentheses Valid, and more.
+- 🧱 Recently solved multiple problems related to <a href="https://github.com/HassanKoraim/DSA/tree/main/Data-structures/Stack%20Problems%20Solving" target="_blank"><strong>Stacks</strong></a> – Valid-Parentheses, Next Greater Element II, Minimum Add to Make Parentheses Valid, and more.
 
  <!-- - 💡 I solve problems on topics like arrays, strings, recursion, trees, graphs, dynamic programming, and more. -->
 
