@@ -1,12 +1,25 @@
 <<<<<<< HEAD
 <h1 align="center">Hi 👋, I'm Hassan Koraim</h1>
 <h3 align="center">A passionate Back-End developer from Egypt</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🌱 I’m currently learning **Asp.net Core**
 
 - 📫 How to reach me **HassanKoraim2@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+<!-- - ⚡ Fun fact **I am funny** -->
+<!-- <h3 align="left">🧠 Problem Solving</h3> -->
+
+<h3 align="left">🚀 Problem Solving Journey</h3>
+<p>I regularly practice <strong>Data Structures and Algorithms</strong> to sharpen my problem-solving skills. Check out my DSA repository where I solve coding problems using C# and other languages.</p>
+
+- 📘 [DSA Repository](https://github.com/HassanKoraim/DSA) – My solutions to common coding challenges.
+ <!-- - 💡 I solve problems on topics like arrays, strings, recursion, trees, graphs, dynamic programming, and more. -->
+
+<br/>
+
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanKoraim&show_icons=true&theme=radical)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,4 +45,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->>>>>>> c12fb6ec177d7935d3515d35980d2ec3e4cac827
